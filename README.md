@@ -1,2 +1,2 @@
 # AutoText-Summary
-Provides small summary of a large text document 
+Automates the process of Summarization of a large text document .
